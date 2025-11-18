@@ -9,6 +9,7 @@ p
     color:aqua;
     display:flex;
     flex-direction: column;
+    font-size:large;
 }
 body
 {
@@ -30,4 +31,9 @@ button
 {
     color:turquoise;
     background-color: rgb(8, 8, 8);
+}
+#Plataformas
+{
+    text-align:left;
+    width: 150px;
 }
