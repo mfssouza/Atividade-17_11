@@ -14,8 +14,7 @@ p
 body
 {
     background-color: black;
-    width:auto;
-    height: auto;
+    margin: 0;
 }
 button
 {
@@ -38,4 +37,15 @@ button
 {
     text-align:left;
     width: 150px;
+}
+.galeriaHalo
+{
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+#finalImage
+{
+    height: 100%;
+    width: 100%;
 }
